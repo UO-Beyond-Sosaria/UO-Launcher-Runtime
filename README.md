@@ -2,15 +2,15 @@
 
 **The official Windows launcher for UO Beyond Sosaria** - automatically downloads and manages your game client with built-in plugin support.
 
-![GitHub release](https://img.shields.io/github/v/release/UO-Beyond-Sosaria/UO-Launcher-Runtime?style=for-the-badge)
-![Downloads](https://img.shields.io/github/downloads/UO-Beyond-Sosaria/UO-Launcher-Runtime/total?style=for-the-badge)
+![GitHub release](https://img.shields.io/github/v/release/UO-Beyond-Sosaria/UO-Sosaria-Launcher?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/UO-Beyond-Sosaria/UO-Sosaria-Launcher/total?style=for-the-badge)
 
 ---
 
 ## 🚀 Quick Start
 
 ### 📥 One-Click Download:
-**[🔽 Download UO Beyond Sosaria Launcher](https://codeload.github.com/UO-Beyond-Sosaria/UO-Launcher-Runtime/zip/refs/tags/v1.1.0)**
+**[🔽 Download UO Beyond Sosaria Launcher](https://codeload.github.com/UO-Beyond-Sosaria/UO-Sosaria-Launcher/zip/refs/tags/v1.1.0)**
 
 ### 🎮 Setup Instructions:
 1. **Click** the download link above to get the launcher ZIP file
