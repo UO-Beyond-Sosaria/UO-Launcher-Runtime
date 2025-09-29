@@ -62,7 +62,7 @@
 
 ## 🌐 Connect With Us
 
-- **🏰 Website:** [beyondsosaria.com](https://beyondsosaria.com)
+- **🏰 Website:** [www.beyondsosaria.com](https://www.beyondsosaria.com/)
 - **💬 Discord:** Join our community
 - **📧 Support:** Visit our forums for help
 
