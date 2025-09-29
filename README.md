@@ -9,8 +9,15 @@
 
 ## 🚀 Quick Start
 
-1. **[📥 Download Latest Release](https://github.com/UO-Beyond-Sosaria/UO-Launcher-Runtime/releases/latest)**
-2. **Extract all files** to a folder on your computer
+### 📥 Download All Files (Required):
+1. **[UOBeyondSosariaLauncher.exe](https://github.com/UO-Beyond-Sosaria/UO-Launcher-Runtime/releases/download/v1.0.0/UOBeyondSosariaLauncher.exe)** - Main launcher
+2. **[ICSharpCode.SharpZipLib.dll](https://github.com/UO-Beyond-Sosaria/UO-Launcher-Runtime/releases/download/v1.0.0/ICSharpCode.SharpZipLib.dll)** - ZIP library
+3. **[launcher_logo.png](https://github.com/UO-Beyond-Sosaria/UO-Launcher-Runtime/releases/download/v1.0.0/launcher_logo.png)** - Background image
+4. **[launcher_icon.ico](https://github.com/UO-Beyond-Sosaria/UO-Launcher-Runtime/releases/download/v1.0.0/launcher_icon.ico)** - Window icon
+
+### 🎮 Setup Instructions:
+1. **Download** all 4 files above
+2. **Place them** in the same folder on your computer
 3. **Run** `UOBeyondSosariaLauncher.exe`
 4. **Click "Install/Update Client"** to download the game (~1.3GB)
 5. **Choose your plugin** and launch into UO Beyond Sosaria!
@@ -73,4 +80,4 @@
 
 ---
 
-**Ready to explore UO Beyond Sosaria? [Download now!](https://github.com/UO-Beyond-Sosaria/UO-Launcher-Runtime/releases/latest)**
+**Ready to explore UO Beyond Sosaria? [⬆️ Download all files above!](#-download-all-files-required)**
