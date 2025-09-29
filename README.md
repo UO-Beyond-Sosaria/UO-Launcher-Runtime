@@ -10,7 +10,7 @@
 ## 🚀 Quick Start
 
 ### 📥 One-Click Download:
-**[🔽 Download UO Beyond Sosaria Launcher](https://codeload.github.com/UO-Beyond-Sosaria/UO-Launcher-Runtime/zip/refs/tags/v1.0.0)**
+**[🔽 Download UO Beyond Sosaria Launcher](https://codeload.github.com/UO-Beyond-Sosaria/UO-Launcher-Runtime/zip/refs/tags/v1.1.0)**
 
 ### 🎮 Setup Instructions:
 1. **Click** the download link above to get the launcher ZIP file
